@@ -1,0 +1,46 @@
+
+{
+    "data": [
+        {"name": "Nairobi", "code": "001"},
+        {"name": "Machakos", "code": "002"},
+        {"name": "Nakuru", "code": "003"},
+        {"name": "Eldoret", "code": "DZ"},
+        {"name": "Mombasa", "code": "AS"},
+        {"name": "Kisumu", "code": "AD"},
+        {"name": "Kakamega", "code": "AO"},
+        {"name": "Limuru", "code": "AI"},
+        {"name": "Kajiado", "code": "AQ"},
+        {"name": "Kitui", "code": "AG"},
+        {"name": "Malindi", "code": "AR"},
+        {"name": "Lamu", "code": "AM"},
+        {"name": "Limuru", "code": "AW"},
+        {"name": "Baringo", "code": "AU"},
+        {"name": "Garisa", "code": "AT"},
+        {"name": "Mandera", "code": "AZ"},
+        {"name": "Wajir", "code": "BS"},
+        {"name": "Kakamega", "code": "BH"},
+        {"name": "Nyeri", "code": "BD"},
+        {"name": "Maralal", "code": "BB"},
+        {"name": "Meru", "code": "BY"},
+        {"name": "Kitale", "code": "BE"},
+        {"name": "isiolo", "code": "BZ"},
+        {"name": "Homabay", "code": "BJ"},
+        {"name": "Thika", "code": "BM"},
+        {"name": "Lamu", "code": "BT"},
+        {"name": "Mumias", "code": "BO"},
+        {"name": "Limuru", "code": "BA"},
+        {"name": "kericho", "code": "BW"},
+        {"name": "Taveta", "code": "BV"},
+        {"name": "Narok", "code": "BR"},
+        {"name": "NyaNyuki", "code": "IO"},
+        {"name": "Migori", "code": "BN"},
+        {"name": "Naivasha", "code": "BG"},
+        {"name": "Bungoma", "code": "BF"},
+        {"name": "Molo", "code": "BI"},
+        {"name": "Kilifi", "code": "KH"},
+        {"name": "bondo", "code": "CM"},
+        {"name": "Maua", "code": "CA"}
+      
+    ]
+}
+    
